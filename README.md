@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&theme=dark)
 
-## &#60;Tecnologias &#47;&#62;
+# &#60;Tecnologias &#47;&#62;
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
