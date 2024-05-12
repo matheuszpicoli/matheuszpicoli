@@ -4,11 +4,11 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-zanela-picoli-ab0abb303/)
 
-![Matheus Picoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dracula)
+![Matheus Picoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dark)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&theme=dark)
 
 ## &#60;Tecnologias &#47;&#62;
 
