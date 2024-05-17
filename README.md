@@ -1,38 +1,50 @@
-# &#60;Olá, meu nome é Matheus Picoli &#47;&#62;
+# &#60;Hi, my name is Matheus Picoli 🚀 &#47;&#62;
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_zpicoli/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-zanela-picoli-ab0abb303/)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/matheus_zpicoli/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-zanela-picoli-ab0abb303/)
 
 ![Matheus Picoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dark)
 
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&theme=dark)
 
-# &#60;Tecnologias &#47;&#62;
+## &#60;Technologies 💻 &#47;&#62;
 
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio)
 &nbsp;
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=powershell)
+<br/><br/>
+![HTML 5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 &nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS 3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 &nbsp;
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindCSS)
 &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)
 &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)
 &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 &nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 &nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react)
 &nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Next JS](https://img.shields.io/badge/-Next%20JS-05122A?style=flat&logo=next.js)
 &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue JS](https://img.shields.io/badge/-Vue%20JS-05122A?style=flat&logo=vue.js)
+&nbsp;
+![Node JS](https://img.shields.io/badge/-Node%20JS-05122A?style=flat&logo=node.js)
+&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
+&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mySQL)
+&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 &nbsp;
