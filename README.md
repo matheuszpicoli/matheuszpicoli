@@ -5,10 +5,10 @@
 <hr />
 
 <div>
-	<a href="https://www.instagram.com/matheus_zpicoli/" target="_blank" rel=noopener noreferrer>
+	<a href="https://www.instagram.com/matheus_zpicoli/" target="_blank" rel="noopener noreferrer">
 		<img name="Instagram" style="height: 25px;" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
 	</a>
-	<a href="https://www.linkedin.com/in/matheus-zpicoli" target="_blank" rel=noopener noreferrer>
+	<a href="https://www.linkedin.com/in/matheus-zpicoli" target="_blank" rel="noopener noreferrer">
 		<img name="LinkedIn" style="height: 25px;" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
 	</a>
 </div>
