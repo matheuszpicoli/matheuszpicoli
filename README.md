@@ -2,6 +2,16 @@
   &#60;Hello, my name is Matheus Picoli 🚀 &#47;&#62;
 </h3>
 
+<br />
+
+<h3>
+	Analysis and Systems Development
+</h3>
+<ul>
+	<li>Passionate about technology</li>
+	<li>In constant search for true success</li>
+</ul>
+
 <hr />
 
 <em>
