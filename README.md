@@ -4,14 +4,23 @@
 
 <hr />
 
+<em>
+	My social medias:
+</em>
+
+<br />
+
 <div>
 	<a href="https://www.instagram.com/matheus_zpicoli/" target="_blank" rel="noopener noreferrer">
 		<img name="Instagram" style="height: 25px;" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
 	</a>
+	&nbsp;
 	<a href="https://www.linkedin.com/in/matheus-zpicoli" target="_blank" rel="noopener noreferrer">
 		<img name="LinkedIn" style="height: 25px;" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
 	</a>
 </div>
+
+<br />
 
 <div>
 	<img style="width: 30vw; height: 20vh;" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dark"/>
@@ -24,6 +33,10 @@
 
 <hr />
 
+<em>
+	Editors that I like to use the most:
+</em>
+
 <div>
 	<img name="Visual Studio Code" style="height: 25px;" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio" />
   &nbsp;
@@ -31,6 +44,10 @@
 </div>
 
 <br />
+
+<em>
+	Languages, libs and frameworks that I like most:
+</em>
 
 <div>
 	<img name="HTML5" style="height: 25px;" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
@@ -61,10 +78,19 @@
 	&nbsp;
 	<img name="jQuery" style="height: 25px;" src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery" />
 	&nbsp;
+</div>
+
+<br />
+
+<em>
+	SELECT DB.NAME FROM DATABASES DB WHERE TRIM(UPPER(DB.NAME)) IN("MYSQL", "ORACLE", "MONGODB") ORDER BY 1 ASC;
+</em>
+
+<div>
+	<img name="MongoDB" style="height: 25px;" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
+	&nbsp;
 	<img name="MySQL" style="height: 25px;" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mySQL" />
 	&nbsp;
 	<img name="Oracle" style="height: 25px;" src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
-	&nbsp;
-	<img name="MongoDB" style="height: 25px;" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
 	&nbsp;
 </div>
