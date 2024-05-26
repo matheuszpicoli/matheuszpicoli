@@ -1,5 +1,5 @@
 <h3>
-  &#60;Hi, my name is Matheus Picoli 🚀 &#47;&#62;
+  &#60;Hello, my name is Matheus Picoli 🚀 &#47;&#62;
 </h3>
 
 <hr />
