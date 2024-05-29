@@ -84,8 +84,6 @@
 	&nbsp;
 	<img name="Node JS" style="height: 25px;" src="https://img.shields.io/badge/-Node%20JS-05122A?style=flat&logo=node.js" />
 	&nbsp;
-	<img name="Bootstrap" style="height: 25px;" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
-	&nbsp;
 	<img name="jQuery" style="height: 25px;" src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery" />
 	&nbsp;
 </div>
