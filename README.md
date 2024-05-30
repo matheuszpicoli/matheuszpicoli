@@ -33,8 +33,8 @@
 <br />
 
 <div>
-	<img style="width: 30vw; height: 20vh;" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dark"/>
-	<img style="width: 30vw; height: 20vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&theme=dark" />
+	<img style="width: 30vw; height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=dark"/>
+	<img style="width: 30vw; height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&theme=dark" />
 </div>
 
 <h3>
