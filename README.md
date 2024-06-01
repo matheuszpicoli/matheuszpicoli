@@ -3,7 +3,7 @@
 - Sou apaixonado por tecnologia 💻
 - Em constante busca pelo verdadeiro sucesso 🚀
 
-### Melhores tecnologias
+### Tecnologias que mais gosto de utilizar
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
