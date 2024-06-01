@@ -1,104 +1,36 @@
-<h3>
-  &#60;Hello, my name is Matheus Picoli 🚀 &#47;&#62;
-</h3>
+### Olá, meu nome é Matheus Picoli
 
-<br />
+- Sou apaixonado por tecnologia 💻
+- Em constante busca pelo verdadeiro sucesso 🚀
 
-<h3>
-	Analysis and Systems Development
-</h3>
-<ul>
-	<li>Passionate about technology</li>
-	<li>In constant search for true success</li>
-</ul>
-
-<hr />
-
-<em>
-	My social medias:
-</em>
-
-<br />
+### Melhores tecnologias
 
 <div>
-	<a href="https://www.instagram.com/matheus_zpicoli/" target="_blank" rel="noopener noreferrer">
-		<img name="Instagram" style="height: 25px;" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+</div>
+
+<hr/>
+
+<div>
+  <a href="https://github.com/matheuszpicoli">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+### Meu LinkedIn
+
+<div>
+	<a href="https://www.linkedin.com/in/matheus-zpicoli/">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>		
 	</a>
-	&nbsp;
-	<a href="https://www.linkedin.com/in/matheus-zpicoli" target="_blank" rel="noopener noreferrer">
-		<img name="LinkedIn" style="height: 25px;" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
-	</a>
-</div>
-
-<br />
-
-<div>
-	<img style="width: 30vw; height: 30vh; align: left;" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=react"/>
-	<img style="width: 30vw; height: 30vh; align: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&theme=react" />
-</div>
-
-<h3>
-  &#60;Technologies 💻 &#47;&#62;
-</h3>
-
-<hr />
-
-<em>
-	Editors that I like to use the most:
-</em>
-
-<div>
-	<img name="Visual Studio Code" style="height: 25px;" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio" />
-  &nbsp;
-	<img name="PowerShell" style="height: 25px;" src="https://img.shields.io/badge/-Shell-05122A?style=flat&logo=powershell" />
-</div>
-
-<br />
-
-<em>
-	Languages, libs and frameworks that I like most:
-</em>
-
-<div>
-	<img name="HTML5" style="height: 25px;" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
-	&nbsp;
-	<img name="CSS3" style="height: 25px;" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" />
-	&nbsp;
-	<img name="Tailwind CSS" style="height: 25px;" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindCSS" />
-	&nbsp;
-	<img name="SCSS" style="height: 25px;" src="https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS" />
-	&nbsp;
-	<img name="Gulp" style="height: 25px;" src="https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp" />
-	&nbsp;
-	<img name="Git" style="height: 25px;" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-	&nbsp;
-	<img name="JavaScript" style="height: 25px;" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-	&nbsp;
-	<img name="TypeScript" style="height: 25px;" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
-	&nbsp;
-	<img name="React" style="height: 25px;" src="https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react" />
-	&nbsp;
-	<img name="Next JS" style="height: 25px;" src="https://img.shields.io/badge/-Next%20JS-05122A?style=flat&logo=next.js" />
-	&nbsp;
-	<img name="Vue JS" style="height: 25px;" src="https://img.shields.io/badge/-Vue%20JS-05122A?style=flat&logo=vue.js" />
-	&nbsp;
-	<img name="Node JS" style="height: 25px;" src="https://img.shields.io/badge/-Node%20JS-05122A?style=flat&logo=node.js" />
-	&nbsp;
-	<img name="jQuery" style="height: 25px;" src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery" />
-	&nbsp;
-</div>
-
-<br />
-
-<em>
-	SELECT DB.NAME FROM DATABASES DB WHERE TRIM(UPPER(DB.NAME)) IN("MYSQL", "ORACLE", "MONGODB") ORDER BY 1 ASC;
-</em>
-
-<div>
-	<img name="MongoDB" style="height: 25px;" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
-	&nbsp;
-	<img name="MySQL" style="height: 25px;" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mySQL" />
-	&nbsp;
-	<img name="Oracle" style="height: 25px;" src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
-	&nbsp;
 </div>
