@@ -30,7 +30,7 @@
 ### Meu LinkedIn
 
 <div>
-	<a href="https://www.linkedin.com/in/matheus-zpicoli/" target="_blank">
+	<a href="https://www.linkedin.com/in/matheus-zpicoli/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>		
 	</a>
 </div>
