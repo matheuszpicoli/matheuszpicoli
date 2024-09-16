@@ -52,6 +52,12 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 - **Bando de dados:** MongoDB, MySQL, Oracle, SQL Server
 - **Outras tecnologias:** Git
 
+## Últimos cursos
+- [Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/?couponCode=ST11MT91624B)
+- [PowerShell - Fundamentos](https://www.youtube.com/playlist?list=PLO_mlVzHgDw3EIKrT5rma_rmC4Lcc7ihT)
+- [DevTools Pro: The Basics of Chrome Developer Tools](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/)
+- [Lógica de programação para todos](https://www.udemy.com/course/logica-de-programacao-para-todos/)
+
 ## O Que Estou Buscando
 
 - **Colaborações:** Estou sempre aberto a colaborar em novos projetos. Se você tem uma ideia ou um projeto interessante, não hesite em me contactar!
