@@ -48,13 +48,13 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 ## Tecnologias e Ferramentas
 
 <div align="center">
-	
-| **Categoria**          | **Tecnologias**                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Front-end**          | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Tailwind CSS](https://tailwindcss.com), [SCSS](https://sass-lang.com), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org), [React](https://react.dev), [Next](https://nextjs.org), [jQuery](https://jquery.com) |
-| **Back-end**           | [Python](https://www.python.org), [Delphi](https://www.embarcadero.com/br/products/delphi), [Node](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)                                                                                                                                                                                                                                |
-| **Banco de dados**     | [MongoDB](https://www.mongodb.com/pt-br/docs), [MySQL](https://dev.mysql.com/doc), [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database), [SQL Server](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)                                                                                                                                                              |
-| **Outras tecnologias** | [Git](https://git-scm.com/doc)                                                                                                                           |
+
+| Categoria              | Tecnologias                                                                |
+| ---------------------- | -------------------------------------------------------------------------- |
+| **Front-end**          | HTML, CSS, Tailwind CSS, SCSS, JavaScript, TypeScript, React, Next, jQuery |
+| **Back-end**           | Python, Delphi, Node                                                       |
+| **Banco de dados**     | MongoDB, MySQL, Oracle, SQL Server                                         |
+| **Outras tecnologias** | Git                                                                        |
 
 </div>
 
