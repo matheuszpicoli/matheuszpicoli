@@ -58,7 +58,6 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next" title="Next" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node" title="Node" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="40" alt="Nodemon" title="Nodemon" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="Numpy" title="Numpy" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" title="Oracle" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" alt="Plotly" title="Plotly" />
@@ -86,7 +85,7 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 | **Front-end**          | HTML, CSS, Tailwind CSS, SCSS, JavaScript, TypeScript, React, Next, jQuery, Bootstrap, Babel, Gulp |
 | **Back-end**           | Node, Express, Flask, Firebase, Python, Delphi, SQL Alchemy, Axios, Shell                          |
 | **Banco de dados**     | MongoDB, MySQL, MariaDB, Oracle                                                                    |
-| **Outras tecnologias** | Git, GitHub, ESLint, Vercel, Webpack, Vite, Nodemon, Plotly, Pandas, Numpy, Markdown               |
+| **Outras tecnologias** | Git, GitHub, ESLint, Vercel, Webpack, Vite, Nodemon, Plotly, Pandas, Markdown                      |
 | **Ferramentas**        | Postman, Grafana, VS Code, SQL Server Management Studio, DBeaver, MySQL Workbench, Bash, Vercel    |
 | **DevOps**             | Azure, Amazon Web Services (AWS)                                                                   |
 
