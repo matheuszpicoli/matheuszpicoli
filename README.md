@@ -77,6 +77,6 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 
 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-zpicoli
 
-💻 **Website:**  https://mp-portfolio-bice.vercel.app
+💻 **Website:**  https://mp-portfolio-bice.vercel.app (próximo em desenvolvimento)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato se você tiver alguma pergunta ou apenas quiser conversar sobre tecnologia.
