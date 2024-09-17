@@ -1,28 +1,13 @@
 # Olá, eu sou Matheus Picoli 👋
 
-Bem-vindo ao meu perfil do **GitHub**! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novas oportunidades para aprender e crescer.
+Bem-vindo ao meu perfil do **GitHub**. Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novas oportunidades para aprender e crescer.
 
 Aqui, você encontrará uma coleção dos meus projetos, contribuições e áreas de interesse.
 
 <div align="center">
   	<a href="https://github.com/matheuszpicoli">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
-		<hr />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&langs_count=7&theme=react&hide_border=true&include_all_commits=true" alt="Linguagens mais utilizadas" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&langs_count=7&theme=react&hide_border=true&include_all_commits=true" alt="Linguagens mais utilizadas" title="Linguagens mais utilizadas" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" title="Estatísticas do GitHub" />
  	 </a>
 </div>
 
@@ -47,16 +32,56 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
+<a href="https://github.com/matheuszpicoli">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" alt="Babel" title="Babel" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" alt="ESLint" title="ESLint" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" title="Express" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" alt="Firebase" title="Firebase" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" title="Flask" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" alt="Grafana" title="Grafana" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" title="jQuery" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB" title="MariaDB" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" alt="Markdown" title="Markdown" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next" title="Next" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node" title="Node" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="40" alt="Nodemon" title="Nodemon" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="Numpy" title="Numpy" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" title="Oracle" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" alt="Plotly" title="Plotly" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" title="Postman" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" title="SCSS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite" title="Vite" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" alt="Webpack" title="Webpack" />
+</a>
+<div>‎ </div>
+<details open>
+<summary>Tabela completa</summary>
+<div>‎ </div>
+	
+| Categoria              | Tecnologia                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Front-end**          | HTML, CSS, Tailwind CSS, SCSS, JavaScript, TypeScript, React, Next, jQuery, Bootstrap, Babel, Gulp     |
+| **Back-end**           | Node, Express, Flask, Firebase, Python, Delphi, SQL Alchemy                                            |
+| **Banco de dados**     | MongoDB, MySQL, MariaDB, Oracle                                                                        |
+| **Outras tecnologias** | Git, GitHub, ESLint, Vercel, Webpack, Vite, Nodemon, Plotly, Pandas, Numpy, Markdown                   |
+| **Ferramentas**        | Postman, Grafana, VS Code                                                                              |
 
-| Categoria              | Tecnologias                                                                |
-| ---------------------- | -------------------------------------------------------------------------- |
-| **Front-end**          | HTML, CSS, Tailwind CSS, SCSS, JavaScript, TypeScript, React, Next, jQuery |
-| **Back-end**           | Python, Delphi, Node                                                       |
-| **Banco de dados**     | MongoDB, MySQL, Oracle, SQL Server                                         |
-| **Outras tecnologias** | Git                                                                        |
-
-</div>
+</details>
 
 ## Últimos Cursos
 - [Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/?couponCode=ST11MT91624B)
@@ -80,3 +105,4 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 💻 **Website:**  https://mp-portfolio-bice.vercel.app (próximo em desenvolvimento)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato se você tiver alguma pergunta ou apenas quiser conversar sobre tecnologia.
+****
