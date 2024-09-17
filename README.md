@@ -20,7 +20,7 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
-		<div>‎ </div>
+		<hr />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpicoli&layout=compact&langs_count=7&theme=react" alt="Linguagens mais utilizadas" />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuszpicoli&show_icons=true&theme=react&count_private=true" alt="Estatísticas do GitHub" />
  	 </a>
