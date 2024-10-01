@@ -85,7 +85,7 @@ Aqui, você encontrará uma coleção dos meus projetos, contribuições e área
 | **Front-end**          | HTML, CSS, Tailwind CSS, SCSS, JavaScript, TypeScript, React, Next, jQuery, Bootstrap, Babel, Gulp |
 | **Back-end**           | Node, Express, Flask, Firebase, Python, Delphi, SQL Alchemy, Axios, Shell                          |
 | **Banco de dados**     | MongoDB, MySQL, MariaDB, Oracle                                                                    |
-| **Outras tecnologias** | Git, GitHub, ESLint, Vercel, Webpack, Vite, Nodemon, Plotly, Pandas, Markdown                      |
+| **Outras tecnologias** | Git, GitHub, ESLint, Webpack, Vite, Nodemon, Plotly, Pandas, Markdown                              |
 | **Ferramentas**        | Postman, Grafana, VS Code, SQL Server Management Studio, DBeaver, MySQL Workbench, Bash, Vercel    |
 | **DevOps**             | Azure, Amazon Web Services (AWS)                                                                   |
 
